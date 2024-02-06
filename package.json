@@ -1,0 +1,22 @@
+{
+  "name": "svg_module10",
+  "version": "1.0.0",
+  "description": "SVG_Logo generator",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TNielson78"
+  },
+  "author": "T Nielson",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
