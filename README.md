@@ -23,7 +23,7 @@ N/A
 ## Tests
 N/A
 ## Languages
-N/A
+HTML, NPM I, JSON.
 ## Questions
 * GitHub: [TNielson78](
 * Email: travis.nielson01@gmail.com
