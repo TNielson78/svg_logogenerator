@@ -30,4 +30,10 @@ N/A
 ## License   
     licensed under the MIT license
 
+    ![circle](https://github.com/TNielson78/svg_logogenerator/assets/147010160/4357202d-ea64-486f-94ca-b845957e73ec)![triangle](https://github.com/TNielson78/svg_logogenerator/assets/147010160/75dba730-614e-4bc0-93cb-da7f61d513de)
+
+    
+![square](https://github.com/TNielson78/svg_logogenerator/assets/147010160/b53ca37d-773f-49d8-8162-c3387e6c49f7)
+
+
 
